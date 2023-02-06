@@ -1,0 +1,5 @@
+# Local Netlify folder
+.netlify/state.json
+.netlify/edge-functions-import-map.json
+.netlify/edge-functions-dist
+
